@@ -4,7 +4,7 @@
 # Based On: https://www.a1k0n.net/2011/07/20/donut-math.html
 
 # Try:
-gcc donut_3d -o donut_3d
-./donut_3d
+gcc donut_3d -o donut_3d </br>
+./donut_3d </br>
 
 
